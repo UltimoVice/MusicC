@@ -11,7 +11,7 @@ namespace Music.Connection
     {
         private const string CERTIFICATE = "TrustServerCertificate=true";
 
-        private const string DATA_SOURCE = "Data Source=DESKTOP-OOU73IT\\SQLEXPRESS";
+        private const string DATA_SOURCE = "Data Source=DONNA\\SQLEXPRESS";
 
         private const string CATALOG = "Initial Catalog=Music";
 

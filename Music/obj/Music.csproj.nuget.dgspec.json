@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Music.csproj": {}
+    "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Music.csproj": {}
   },
   "projects": {
-    "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Music.csproj": {
+    "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Music.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Music.csproj",
+        "projectUniqueName": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Music.csproj",
         "projectName": "Music",
-        "projectPath": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Music.csproj",
-        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\obj\\",
+        "projectPath": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Music.csproj",
+        "packagesPath": "C:\\Users\\daian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,6 +53,14 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.4.0, )"
             }
           },
           "imports": [

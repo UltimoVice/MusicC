@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
+using Music.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,14 +10,11 @@ namespace Music.Dao
 {
     public interface ITracciaDao
     {
-        void Save(TracciaDao tracciaDao, SqlConnection connection, SqlTransaction transaction);
-
-        List<TracciaDao?> GetByAlbumId(int AlbumId, SqlConnection connection, SqlTransaction transaction);
-
-        List<TracciaDao?> GetByTitolo(string Titolo, SqlConnection connection, SqlTransaction transaction);
-
-        void UpdateById(int ArtistaId, ArtistaDao artistaDao, SqlConnection connection, SqlTransaction transaction);
-
-        void DeleteById(int ArtistaId, SqlConnection connection, SqlTransaction transaction);
+        void Save(Traccia traccia, SqlConnection connection, SqlTransaction transaction);
+        Traccia? GetByTracciaId(int tracciaId, SqlConnection connection, SqlTransaction transaction);
+        List<Traccia?> GetByAlbumId(int AlbumId, SqlConnection connection, SqlTransaction transaction);
+        List<Traccia?> GetByTitolo(string Titolo, SqlConnection connection, SqlTransaction transaction);
+        void UpdateById(int tracciaId, int numeroTraccia, string titolo, int durata, int albumId, SqlConnection connection, SqlTransaction transaction);
+        void DeleteById(int tracciaId, SqlConnection connection, SqlTransaction transaction);
     }
 }

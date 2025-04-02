@@ -131,28 +131,24 @@ namespace Music.Dao
             {
                 command.Parameters.AddWithValue("@ArtistaId", ArtistaId);
 
-                // Variabile per contenere il report finale
                 StringBuilder report = new StringBuilder();
 
                 using (SqlDataReader reader = command.ExecuteReader())
                 {
-                    // Variabili per tenere traccia dell'artista e degli album
                     string currentArtist = "";
                     List<string> currentAlbums = new List<string>();
                     List<string> currentTracks = new List<string>();
 
                     while (reader.Read())
                     {
-                        string artistName = reader.GetString(0);  // Nome dell'artista
-                        string albumTitle = reader.GetString(1);  // Titolo dell'album
-                        string trackTitle = reader.GetString(2);  // Titolo della traccia
+                        string artistName = reader.GetString(0);  
+                        string albumTitle = reader.GetString(1);  
+                        string trackTitle = reader.GetString(2);  
 
-                        // Se il nome dell'artista cambia, scriviamo il report per l'artista corrente
                         if (artistName != currentArtist)
                         {
                             if (currentArtist != "")
                             {
-                                // Aggiungi gli album e le tracce del vecchio artista al report
                                 report.AppendLine($"Artista: {currentArtist}");
                                 foreach (var album in currentAlbums)
                                 {
@@ -164,13 +160,11 @@ namespace Music.Dao
                                 }
                             }
 
-                            // Resetta per il nuovo artista
                             currentArtist = artistName;
                             currentAlbums.Clear();
                             currentTracks.Clear();
                         }
 
-                        // Aggiungi album e traccia alla lista dell'artista
                         if (!currentAlbums.Contains(albumTitle))
                         {
                             currentAlbums.Add(albumTitle);
@@ -178,7 +172,6 @@ namespace Music.Dao
                         currentTracks.Add(trackTitle);
                     }
 
-                    // Aggiungi il report dell'ultimo artista
                     if (currentArtist != "")
                     {
                         report.AppendLine($"Artista: {currentArtist}");
@@ -192,8 +185,6 @@ namespace Music.Dao
                         }
                     }
                 }
-
-                // Restituisci il report formattato
                 return report.ToString();
             }
         }
@@ -230,7 +221,7 @@ namespace Music.Dao
                 command.Parameters.AddWithValue("@Nazione", Nazione);
                 command.Parameters.AddWithValue("@AnnoInizio", AnnoInizio);
 
-                int righeCoinvolte = command.ExecuteNonQuery(); //esegue la transazione
+                int righeCoinvolte = command.ExecuteNonQuery(); 
 
                 Console.WriteLine($"noleggio aggiornato; sono state coinvolte{righeCoinvolte} righe");
             }
