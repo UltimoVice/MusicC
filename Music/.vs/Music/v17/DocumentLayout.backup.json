@@ -78,8 +78,7 @@
               "RelativeToolTip": "Dao\\IArtistaDao.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAawBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:54:44.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T14:54:44.923Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "Services\\ArtistaService.cs",
               "ViewState": "AgIAAKoAAAAAAAAAAAArwMIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T12:43:20.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T12:43:20.275Z"
             },
             {
               "$type": "Document",
@@ -102,7 +100,7 @@
               "RelativeDocumentMoniker": "Dao\\ArtistaDao.cs",
               "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Dao\\ArtistaDao.cs",
               "RelativeToolTip": "Dao\\ArtistaDao.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAiwMQAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T08:02:03.506Z",
               "EditorCaption": ""
@@ -117,8 +115,7 @@
               "RelativeToolTip": "Services\\IArtistaService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIA3wBcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T12:39:31.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T12:39:31.287Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "Models\\Artista.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:55:39.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:55:39.16Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "Menu\\MostraFunzioni.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAUwJMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:57:28.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:57:28.953Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "Dao\\IAlbumDao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T08:00:42.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T08:00:42.479Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "Models\\Album.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:55:55.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:55:55.861Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:53:44.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:53:44.2Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "Dao\\TracciaDao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T08:02:15.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T08:02:15.604Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "Models\\Traccia.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwCwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:56:09.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:56:09.242Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "Dao\\ITracciaDao.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T08:01:05.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T08:01:05.219Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "Dao\\AlbumDao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T08:01:55.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T08:01:55.771Z"
             },
             {
               "$type": "Document",
@@ -247,8 +235,7 @@
               "RelativeToolTip": "Connection\\MusicConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:54:35.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:54:35.954Z"
             }
           ]
         }
