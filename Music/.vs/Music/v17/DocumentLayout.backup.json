@@ -3,11 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\connection\\musicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:connection\\musicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|e:\\progetti visual studio 2022\\music\\musicc\\music\\menu\\mostrafunzioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:menu\\mostrafunzioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|e:\\progetti visual studio 2022\\music\\musicc\\music\\dao\\artistadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:dao\\artistadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|e:\\progetti visual studio 2022\\music\\musicc\\music\\services\\artistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:services\\artistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|e:\\progetti visual studio 2022\\music\\musicc\\music\\services\\iartistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:services\\iartistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|e:\\progetti visual studio 2022\\music\\musicc\\music\\dao\\iartistadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:dao\\iartistadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|e:\\progetti visual studio 2022\\music\\musicc\\music\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|e:\\progetti visual studio 2022\\music\\musicc\\music\\dao\\ialbumdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:dao\\ialbumdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|e:\\progetti visual studio 2022\\music\\musicc\\music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -57,9 +89,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< Updated upstream
           "DockedWidth": 433,
           "SelectedChildIndex": 0,
+=======
+          "DockedWidth": 235,
+          "SelectedChildIndex": 6,
+>>>>>>> Stashed changes
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -75,6 +116,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Program.cs",
@@ -82,12 +124,22 @@
               "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 2,
+              "Title": "ArtistaService.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Services\\ArtistaService.cs",
+              "RelativeDocumentMoniker": "Services\\ArtistaService.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Services\\ArtistaService.cs",
+              "RelativeToolTip": "Services\\ArtistaService.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAArwMIAAAAtAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T07:35:04.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 3,
               "Title": "ITracciaService.cs",
               "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\ITracciaService.cs",
@@ -206,6 +258,114 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T14:01:04.687Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 1,
+              "Title": "ArtistaDao.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Dao\\ArtistaDao.cs",
+              "RelativeDocumentMoniker": "Dao\\ArtistaDao.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Dao\\ArtistaDao.cs",
+              "RelativeToolTip": "Dao\\ArtistaDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:02:03.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IArtistaService.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Services\\IArtistaService.cs",
+              "RelativeDocumentMoniker": "Services\\IArtistaService.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Services\\IArtistaService.cs",
+              "RelativeToolTip": "Services\\IArtistaService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA3wBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:39:31.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Models\\Artista.cs",
+              "RelativeDocumentMoniker": "Models\\Artista.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Models\\Artista.cs",
+              "RelativeToolTip": "Models\\Artista.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:55:39.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MostraFunzioni.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Menu\\MostraFunzioni.cs",
+              "RelativeDocumentMoniker": "Menu\\MostraFunzioni.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Menu\\MostraFunzioni.cs",
+              "RelativeToolTip": "Menu\\MostraFunzioni.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAASwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:57:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAlbumDao.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Dao\\IAlbumDao.cs",
+              "RelativeDocumentMoniker": "Dao\\IAlbumDao.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Dao\\IAlbumDao.cs",
+              "RelativeToolTip": "Dao\\IAlbumDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:00:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Album.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Models\\Album.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Models\\Album.cs",
+              "RelativeToolTip": "Models\\Album.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:55:55.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:53:44.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TracciaDao.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Dao\\TracciaDao.cs",
+              "RelativeDocumentMoniker": "Dao\\TracciaDao.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Dao\\TracciaDao.cs",
+              "RelativeToolTip": "Dao\\TracciaDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:02:15.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Traccia.cs",
+              "DocumentMoniker": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Models\\Traccia.cs",
+              "RelativeDocumentMoniker": "Models\\Traccia.cs",
+              "ToolTip": "E:\\Progetti Visual Studio 2022\\Music\\MusicC\\Music\\Models\\Traccia.cs",
+              "RelativeToolTip": "Models\\Traccia.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:56:09.242Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
