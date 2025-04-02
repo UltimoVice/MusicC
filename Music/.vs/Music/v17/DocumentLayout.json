@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\connection\\musicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:connection\\musicconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\services\\tracciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:services\\tracciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\services\\itracciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:services\\itracciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\services\\iartistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:services\\iartistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\services\\ialbumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:services\\ialbumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\services\\artistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:services\\artistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\services\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:services\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\dao\\tracciadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:dao\\tracciadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|c:\\users\\daian\\onedrive\\desktop\\projectwork\\musicc\\music\\menu\\mostrafunzioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1342ED-CDC3-46E3-BAEE-23FD1C2CD78A}|Music.csproj|solutionrelative:menu\\mostrafunzioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 433,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicConnection.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Connection\\MusicConnection.cs",
+              "RelativeDocumentMoniker": "Connection\\MusicConnection.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Connection\\MusicConnection.cs",
+              "RelativeToolTip": "Connection\\MusicConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:35:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:35:04.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITracciaService.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\ITracciaService.cs",
+              "RelativeDocumentMoniker": "Services\\ITracciaService.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\ITracciaService.cs",
+              "RelativeToolTip": "Services\\ITracciaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:34:53.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArtistaService.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\IArtistaService.cs",
+              "RelativeDocumentMoniker": "Services\\IArtistaService.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\IArtistaService.cs",
+              "RelativeToolTip": "Services\\IArtistaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:34:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlbumService.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\IAlbumService.cs",
+              "RelativeDocumentMoniker": "Services\\IAlbumService.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\IAlbumService.cs",
+              "RelativeToolTip": "Services\\IAlbumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:34:50.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArtistaService.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\ArtistaService.cs",
+              "RelativeDocumentMoniker": "Services\\ArtistaService.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\ArtistaService.cs",
+              "RelativeToolTip": "Services\\ArtistaService.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:34:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlbumService.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\AlbumService.cs",
+              "RelativeDocumentMoniker": "Services\\AlbumService.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\AlbumService.cs",
+              "RelativeToolTip": "Services\\AlbumService.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:34:33.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TracciaDao.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Dao\\TracciaDao.cs",
+              "RelativeDocumentMoniker": "Dao\\TracciaDao.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Dao\\TracciaDao.cs",
+              "RelativeToolTip": "Dao\\TracciaDao.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwJ4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:22:25.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TracciaService.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\TracciaService.cs",
+              "RelativeDocumentMoniker": "Services\\TracciaService.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Services\\TracciaService.cs",
+              "RelativeToolTip": "Services\\TracciaService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:01:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MostraFunzioni.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Menu\\MostraFunzioni.cs",
+              "RelativeDocumentMoniker": "Menu\\MostraFunzioni.cs",
+              "ToolTip": "C:\\Users\\daian\\OneDrive\\Desktop\\ProjectWork\\MusicC\\Music\\Menu\\MostraFunzioni.cs",
+              "RelativeToolTip": "Menu\\MostraFunzioni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:42:17.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
